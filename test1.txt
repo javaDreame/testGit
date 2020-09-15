@@ -8,3 +8,5 @@ test777
 test9988
 用户2提交
 testGit3.......
+
+test: push origin master

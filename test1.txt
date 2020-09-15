@@ -13,3 +13,4 @@ test: push origin master
 
 testGit: push origin master
 
+testGit: push origin master 2222
